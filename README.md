@@ -2,7 +2,7 @@
 [![License badge](https://img.shields.io/badge/license-Apache2-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Twitter Follow](https://img.shields.io/twitter/follow/boni_gg.svg?style=social)](https://twitter.com/boni_gg)
 
-# Selenium Examples
+# Selenium Examples 1
 This repository contains basic [Selenium] tests using Java as binding language.
 
 ## Selenium Manager
